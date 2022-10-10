@@ -1,0 +1,2 @@
+mengisi data 3
+ baris baru dengan angka 987

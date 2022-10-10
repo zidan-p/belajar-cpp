@@ -1,0 +1,4 @@
+:: NOTE ::
+taks disini relative terhadap folder rootnya.
+sehingga jika melakukan operasi filestream maka filenya
+bisa ditaruh di folder luar

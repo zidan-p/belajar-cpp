@@ -1,0 +1,10 @@
+ini adalah file external
+dan ini adalah baris ke-dua
+
+data
+no  Nama
+1   Nurhadi
+2   Retno
+3   Agus
+4   Narko
+5   Ajit
